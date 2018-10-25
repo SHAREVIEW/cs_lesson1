@@ -10,6 +10,9 @@ namespace cs_lesson1
     {
         static void Main(string[] args)
         {
+            //output text on screen
+            Console.WriteLine("Hello World !");
+            Console.ReadKey();    //wait for any key
         }
     }
 }
